@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="amazon_request_template">http://ecs.amazonaws.com/onca/xml?AWSAccessKeyId=DUMMYKEY&amp;AssociateTag=digitalsteps-20&amp;Keywords=harry%20potter&amp;Operation=ItemSearch&amp;SearchIndex=Books&amp;Service=AWSECommerceService&amp;Timestamp=2011-12-03T06%3A45%3A14.000Z&amp;Version=2009-03-31&amp;Signature=DUMMYSIGNATURE
+	</string>
+	<string name="amazon_source_name">Amazon  </string>
+</resources>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:id="@+id/searchdialog_root">
+  <LinearLayout android:id="@+id/linearLayout1"
+		android:layout_width="fill_parent" android:layout_height="wrap_content">
+  <TextView 
+    
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:id="@+id/searchdialog_captiontextview" 
+    android:text="@string/searchdialog_caption">
+  </TextView>
+  <EditText 
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:id="@+id/searchdialog_keyword">
+  </EditText>
+  </LinearLayout>
+  
+  
+  <LinearLayout android:id="@+id/linearLayout1"
+		android:layout_width="fill_parent" android:layout_height="wrap_content">
+  <TextView 
+    android:layout_height="wrap_content" 
+    android:id="@+id/searchdialogPrice_captiontextview" 
+    android:text="@string/searchdialogPrice_caption" android:layout_width="wrap_content">
+  </TextView>
+  <EditText 
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:id="@+id/searchdialog_price">
+  </EditText>
+  </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="searchdialog_caption">Keyword: </string>
+    <string name="searchdialogPrice_caption">Max Price: </string>
+     <string name="menu_update">Refresh Earthquakes</string>
+    <string name="auto_update_prompt">Auto Update?</string>
+    <string name="update_freq_prompt">Update Frequency</string>
+    <string name="keyword_preference_TextView">Key Word</string>
+	<string name="max_price">Maximum Price</string>
+	<string name="menu_preferences">Preferences</string>
+    <string name="hello">Hello World, ebayDemoActivity!</string>
+    <string name="app_name">Search Ebay, Amazon</string>
+</resources>
